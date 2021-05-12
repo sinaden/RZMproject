@@ -1,7 +1,7 @@
 <root name="ABOUT">
     <title>
         <question>What is the title of your dataset?</question>
-        <answer />
+        <answer>briliant data</answer>
     </title>
     <repository>
         <question>What is the URL of the repository for this MAIDS description on Github?</question>
@@ -9,15 +9,7 @@
     </repository>
     <authors>
         <question>Who are the dataset's authors?</question>
-        <answer>
-            <author_1>
-                
-                <firstnames />
-                <lastname />
-                <email />
-            </author_1>
-        </answer>
-    </authors>
+        <answer><author_1><firstnames>Ramtin</firstnames><lastname>Marandi</lastname><email /></author_1></answer></authors>
     <scores>
         <document>
             <score>
@@ -137,7 +129,7 @@
     </thematic>
     <abstract>
         <question>Please provide a brief abstract describing this dataset.</question>
-        <answer />
+        <answer>microbiome machine learning</answer>
     </abstract>
     <usecases>
         <question>Please provide one or more short use cases to highlight what this dataset might be used for. These should summarise the main and secondary research questions into single sentence objectives. You may also use this section to expand on possible uses not discussed in the research questions.</question>
@@ -148,7 +140,7 @@
     <research>
         <main>
             <question>Please state, in detail, the main hypothesis for which this dataset was created.</question>
-            <answer />
+            <answer>Disease X can be predicted using Y.</answer>
         </main>
         <secondary>
             <question>Please state, in detail, any other hypotheses which this dataset would be able to address.</question>
